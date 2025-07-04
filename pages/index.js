@@ -14,22 +14,4 @@ export default function Home() {
     </div>
   );
 }
-<<<<<<< HEAD
-import Head from 'next/head';
 
-export default function Home() {
-  return (
-    <>
-      <Head>
-        <title>Pushkar Sindhu</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-      <main>
-        <h1>Welcome!</h1>
-      </main>
-    </>
-  );
-}
-
-=======
->>>>>>> a3a9ed9f90f9f83d4531833c1098930c418b42f5
