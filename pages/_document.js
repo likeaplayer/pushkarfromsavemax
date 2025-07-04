@@ -1,4 +1,3 @@
-// pages/_document.js
 import { Html, Head, Main, NextScript } from 'next/document';
 
 export default function Document() {
@@ -6,7 +5,6 @@ export default function Document() {
     <Html>
       <Head>
         <link rel="icon" href="/favicon.ico" />
-        {/* Add any other meta tags here */}
       </Head>
       <body>
         <Main />
@@ -15,3 +13,4 @@ export default function Document() {
     </Html>
   );
 }
+
