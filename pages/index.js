@@ -14,6 +14,7 @@ export default function Home() {
     </div>
   );
 }
+<<<<<<< HEAD
 import Head from 'next/head';
 
 export default function Home() {
@@ -30,3 +31,5 @@ export default function Home() {
   );
 }
 
+=======
+>>>>>>> a3a9ed9f90f9f83d4531833c1098930c418b42f5
